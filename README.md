@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I’m Krishnam Raja — an aspiring data scientist passionate about machine learning, neural networks, and data science. I’ve published internationally recognized research spanning predictive modeling, deep learning, and AI-driven time series analysis. I enjoy building scalable, data-powered solutions that drive real-world impact. Currently working on integrating LLMs into projects to improve explainability for non-technical audiences. <br><br>Feel free to check out my projects and research, or connect if you’d like to collaborate or simply have a geeky conversation! 
+Hey, I’m Krishnam Raja — an aspiring data scientist passionate about machine learning, neural networks, and data science. I’ve published internationally recognized research spanning predictive modeling, deep learning, computer vision, and AI-driven time series analysis. I enjoy building scalable, data-powered solutions that drive real-world impact. I'm currently working on integrating LLMs into projects to improve explainability for non-technical audiences. <br><br>Feel free to check out my projects and research, or connect if you’d like to collaborate or simply have a geeky conversation! 
 
 
 ## 🌐 Socials:
