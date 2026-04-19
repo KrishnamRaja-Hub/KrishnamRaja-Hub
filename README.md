@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hey, I’m Krishnam Raja — an aspiring data scientist passionate about machine learning, neural networks, and data science. I’ve published internationally recognized research spanning predictive modeling, deep learning, computer vision, and AI-driven time series analysis. I enjoy building scalable, data-powered solutions that drive real-world impact. I'm currently working on integrating LLMs into projects to improve explainability for non-technical audiences. <br><br>Feel free to check out my projects and research, or connect if you’d like to collaborate or simply have a geeky conversation! 
+Hey, I’m Krishnam Raja — an AI Engineer working at the intersection of LLMs, agentic systems, and applied machine learning.
+
+My work focuses on building intelligent systems that go beyond single-model outputs — combining LLMs with tools, memory, and structured workflows using frameworks like LangGraph and MCP to create reliable, production-ready agents.
+
+I’ve worked across deep learning, neural networks, and time series modeling, with published research spanning predictive modeling, computer vision, and AI-driven forecasting. More recently, my focus has shifted toward integrating LLMs into real-world systems, especially for improving reasoning, explainability, and human-aligned outputs.
+
+On the engineering side, I regularly work with PyTorch, transformer-based architectures, and end-to-end ML pipelines — with a strong emphasis on making systems actually usable, not just accurate.
+
+Most of my interesting work is either private or under NDA, but I use this space to share experiments, ideas, and explorations around reasoning, fine-tuning, etc
+
+If you're curious to know more about me, you'll probably find more than enough by Googling my full name.
+
+Feel free to check out my projects or reach out if you’re building something interesting or just want to talk AI.
 
 
 ## 🌐 Socials:
