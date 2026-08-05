@@ -9,7 +9,7 @@ On the engineering side, I regularly work with PyTorch, transformer-based archit
 
 Most of my interesting work is either private or under NDA, but I use this space to share experiments, ideas, and explorations around reasoning, fine-tuning, etc
 
-If you're curious to know more about me, you'll probably find more than enough by Googling my full name.
+If you're curious to know more about me, you'll probably find more than enough by Googling my full name. Or you can visit: https://krishnamraja.netlify.app
 
 Feel free to check out my projects or reach out if you’re building something interesting or just want to talk AI.
 
